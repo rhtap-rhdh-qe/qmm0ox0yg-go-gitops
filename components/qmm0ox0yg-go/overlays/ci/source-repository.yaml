@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qmm0ox0yg-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qmm0ox0yg-go
